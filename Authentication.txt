@@ -1,0 +1,3 @@
+cust@gmail.com    hello123    customer
+bm@gmail.com    bm123    bank_manager
+centralgov@gmail.com    cen123    governor
